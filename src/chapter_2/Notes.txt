@@ -5,3 +5,7 @@ as
 df
 as
 created notes
+
+add these things:
+more fun
+more java
